@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="Parsley" price="519.06" seller="Arthur Reynolds"/>
+    <product name="Prednisone" price="550.72" seller="Bennett"/>
+    <product name="TERSI" price="554.91" seller="Arthur Reynolds"/>
+    <product name="DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER" price="555.12" seller="Jeremy Woods"/>
+    <product name="PLANTAGO LANCEOLATA POLLEN" price="561.68" seller="Thompson"/>
+    <product name="Topiramate" price="578.77" seller="Betty Ward"/>
+    <product name="AIR" price="581.69" seller="Nicole Martinez"/>
+    <product name="Gemcitabine" price="594.79" seller="Fred Allen"/>
+    <product name="Imipramine Hydrochloride" price="648.69" seller="Fox"/>
+    <product name="Childrens Allegra Allergy" price="650.97" seller="Patrick King"/>
+    <product name="PRIMAXIN" price="686.66" seller="Jacqueline Perez"/>
+    <product name="Acnezzol Base" price="710.60" seller="Thompson"/>
+    <product name="Pleo Lat" price="720.08" seller="Moreno"/>
+    <product name="Isosorbide Mononitrate" price="789.91" seller="Stewart"/>
+    <product name="Meloxicam" price="809.18" seller="Sarah Day"/>
+    <product name="IOPE SUPER VITAL" price="824.68" seller="Benjamin Henry"/>
+    <product name="Shopko Lip Treatment" price="861.42" seller="Carl Lawson"/>
+    <product name="Levothyroxine Sodium" price="885.86" seller="Patricia Cooper"/>
+    <product name="EPZICOM" price="895.65" seller="Nicole Martinez"/>
+    <product name="NEO-POLY-BAC HYDRO" price="967.32" seller="Gloria Alexander"/>
+    <product name="Retin-A MICRO" price="995.98" seller="Diana Harvey"/>
+</products>
