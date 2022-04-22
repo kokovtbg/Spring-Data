@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="entities.Department" table="departments">
+        <id name="id" column="department_id">
+            <generator class="identity" />
+        </id>
+        <property name="name" column="name" />
+        <many-to-one name="manager" column="manager_id" class="entities.Employee"/>
+        <set name="employees" table="employees">
+            <key column="department_id"/>
+            <one-to-many class="entities.Employee"/>
+        </set>
+    </class>
+</hibernate-mapping>
